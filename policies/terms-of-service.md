@@ -334,7 +334,7 @@ If any part of this Agreement is held invalid or unenforceable, that portion of 
 
 #### 5. Amendments; Complete Agreement
 
-This Agreement may only be modified by a written amendment signed by an authorized representative of Tofugu, or by the posting by Tofugu of a revised version in accordance with [Section R. Changes to These Terms](/articles/github-terms-of-service/#r-changes-to-these-terms). These Terms of Service, together with the WaniKani Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and Tofugu relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
+This Agreement may only be modified by a written amendment signed by an authorized representative of Tofugu, or by the posting by Tofugu of a revised version in accordance with [Section R. Changes to These Terms](#o-changes-to-these-terms). These Terms of Service, together with the WaniKani Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and Tofugu relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
 
 #### 6. Questions
 
