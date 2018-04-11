@@ -237,9 +237,11 @@ You are responsible for all fees, including taxes, associated with your use of t
 
 #### 1. Account Cancellation
 
+You can cancel your subscription at any time via the [subscription settings](https://www.wanikani.com/account/subscription). Your access to paid content and features will remain in effect until the end of your current billing period. At the end of the billing period, access to paid content and features will be revoked, though your account will still be accessable and you can re-subscribe at any time. As part of keeping your account accessable, we will retain your data indefinitely, or until such time that you request an account deletion.
+
 #### 2. Account Deletion
 
-It is your responsibility to properly delete your account with WaniKani. You can [delete your account at any time](#) by going into your Settings in the global navigation bar at the top of the screen. The Account screen provides a simple, no questions asked cancellation link. We are not able to cancel accounts in response to an email or phone request.
+It is your responsibility to properly delete your account with WaniKani. You can [delete your account at any time](https://www.wanikani.com/settings/danger_zone) by going into your settings in the global navigation bar at the top of the screen and then navigating to the “Danger Zone” section. The Danger Zone screen provides a simple account deletion link, though email confirmation of the action is required. We are not able to delete accounts in response to an email or phone request.
 
 #### 3. Upon Deletion
 
