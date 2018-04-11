@@ -10,7 +10,7 @@ Thank you for using WaniKani! We're happy you're here. Please read this Terms of
 | [B. Account Terms](#b-account-terms) | These are the basic requirements of having an account on WaniKani. |
 | [C. Acceptable Use](#c-acceptable-use) | These are the basic rules you must follow when using your WaniKani account. |
 | [D. User-Generated Content](#d-user-generated-content) | You own the content you post on WaniKani. However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide services to you. |
-| [E. Copyright & DMCA Policy](#e-copyright-infringement-and-dcma-policy) | This section talks about how WaniKani will respond if you believe someone is infringing your copyrights on WaniKani. |
+| [E. Copyright & DMCA Policy](#e-copyright-infringement-and-dmca-policy) | This section talks about how WaniKani will respond if you believe someone is infringing your copyrights on WaniKani. |
 | [F. Intellectual Property Notice](#f-intellectual-property-notice) | This describes WaniKani’s rights in the website and service. |
 | [G. API Terms](#g-api-terms) | These are the rules for using WaniKani's APIs, whether you are using the API for development or data collection. |
 | [H. Advertising on GitHub](#h-advertising-on-github) | If you want to promote your content on GitHub, this section lays out some rules you must follow. |
