@@ -112,13 +112,13 @@ Scraping refers to extracting data from our Website via an automated process, su
 
 You may not scrape WaniKani for spamming purposes, including for the purposes of selling WaniKani users' personal information, such as to advertisers, recruiters, or job boards.
 
-All use of WaniKani data gathered through scraping must comply with the WaniKani Privacy Policy.
+All use of WaniKani data gathered through scraping must comply with the [WaniKani Privacy Policy](#).
 
 #### 6. Privacy
 
 Misuse of WaniKani Users' Personal Information is prohibited.
 
-Any person, entity, or service collecting data from WaniKani must comply with the WaniKani Privacy Policy, particularly in regards to the collection of our Users' Personal Information (as defined in the WaniKani Privacy Policy). If you collect any WaniKani User's Personal Information from WaniKani, you agree that you will only use the Personal Information you gather for the purpose for which our User has authorized it. You agree that you will reasonably secure any Personal Information you have gathered from WaniKani, and you will respond promptly to complaints, removal requests, and "do not contact" requests from Tofugu or WaniKani Users.
+Any person, entity, or service collecting data from WaniKani must comply with the [WaniKani Privacy Policy](#), particularly in regards to the collection of our Users' Personal Information (as defined in the [WaniKani Privacy Policy](#)). If you collect any WaniKani User's Personal Information from WaniKani, you agree that you will only use the Personal Information you gather for the purpose for which our User has authorized it. You agree that you will reasonably secure any Personal Information you have gathered from WaniKani, and you will respond promptly to complaints, removal requests, and "do not contact" requests from Tofugu or WaniKani Users.
 
 #### 7. Excessive Bandwidth Use
 
@@ -160,9 +160,9 @@ To the extent this agreement is not enforceable by applicable law, you grant Tof
 
 ### E. Copyright Infringement and DMCA Policy
 
-If you believe that content on our website violates your copyright, please contact us in accordance with our Digital Millennium Copyright Act Policy. If you are a copyright owner and you believe that content on WaniKani violates your rights, please contact us via our convenient DMCA form or by emailing copyright@wanikani.com. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
+If you believe that content on our website violates your copyright, please contact us in accordance with our [Digital Millennium Copyright Act Policy](#). If you are a copyright owner and you believe that content on WaniKani violates your rights, please contact us via [our convenient DMCA form](#) or by emailing copyright@wanikani.com. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
 
-We will terminate the accounts of repeat infringers of this policy.
+We will terminate the accounts of [repeat infringers](#) of this policy.
 
 ### F. Intellectual Property Notice
 
@@ -174,7 +174,7 @@ Tofugu and our licensors, vendors, agents, and/or our content providers retain o
 
 #### 2. Tofugu and WaniKani Trademarks and Logos
 
-If you’d like to use Tofugu’s trademarks, you must follow all of our trademark guidelines, including those on our media page: https://www.wanikani.com/media.
+If you’d like to use Tofugu’s trademarks, you must follow all of our trademark guidelines, including those on our media page: [wanikani.com/media](https://www.wanikani.com/media).
 
 #### 3. License to Tofugu Policies
 
@@ -192,7 +192,7 @@ You may not share API tokens to exceed WaniKani's rate limitations.
 
 You may not use the API to download data or Content from WaniKani for spamming purposes, including for the purposes of selling WaniKani users' personal information, such as to recruiters, headhunters, and job boards.
 
-All use of the WaniKani API is subject to these Terms of Service and the WaniKani Privacy Statement.
+All use of the WaniKani API is subject to these Terms of Service and the [WaniKani Privacy Policy](#).
 
 Tofugu may offer subscription-based access to our API for those Users who require high-throughput access or access that would result in resale of Tofugu's Service.
 
@@ -210,13 +210,13 @@ Any Advertising Content, like all Content, must not violate the law or these Ter
 
 #### 1. Pricing
 
-Our pricing and payment terms are available at [wanikani.com/account/subscription](#). If you agree to a subscription price, that will remain your price for the duration of the payment term; however, prices are subject to change at the end of a payment term. Decreases in a subscription price may be applied in the middle of a payment term.
+Our pricing and payment terms are available at [wanikani.com/account/subscription](https://www.wanikani.com/account/subscription). If you agree to a subscription price, that will remain your price for the duration of the payment term; however, prices are subject to change at the end of a payment term. Decreases in a subscription price may be applied in the middle of a payment term.
 
 #### 2. Upgrades, Downgrades, and Changes
 
 - We will immediately bill you when you upgrade from the free plan to any paying plan.
 - If you change your level of service, we will prorate the cost difference and apply any charges or discounts immediately.
-- You may change your level of service at any time by choosing a plan option or going into your Subscription settings. If you choose to downgrade your account, you may lose access to Content, features, or capacity of your account.
+- You may change your level of service at any time by choosing a plan option or going into your [subscription settings](https://www.wanikani.com/account/subscription). If you choose to downgrade your account, you may lose access to Content, features, or capacity of your account.
 
 #### 3. Billing Schedule; No Refunds
 
@@ -229,7 +229,7 @@ By agreeing to these Terms, you are giving us permission to charge your on-file 
 
 #### 5. Responsibility for Payment
 
-You are responsible for all fees, including taxes, associated with your use of the Service. By using the Service, you agree to pay Tofugu any charge incurred in connection with your use of the Service. If you dispute the matter, contact our support team. You are responsible for providing us with a valid means of payment for paid accounts. Free accounts are not required to provide payment information.
+You are responsible for all fees, including taxes, associated with your use of the Service. By using the Service, you agree to pay Tofugu any charge incurred in connection with your use of the Service. If you dispute the matter, [contact our support team](mailto:hello@wanikani.com). You are responsible for providing us with a valid means of payment for paid accounts. Free accounts are not required to provide payment information.
 
 ### J. Cancellation and Termination
 
@@ -267,7 +267,7 @@ For contractual purposes, you (1) consent to receive communications from us in a
 
 #### 2. Legal Notice to Tofugu Must Be in Writing
 
-Communications made through email or WaniKani Support's messaging system will not constitute legal notice to Tofugu or any of its officers, employees, agents or representatives in any situation where notice to Tofugu is required by contract or any law or regulation. Legal notice to Tofugu must be in writing and served on Tofugu's legal agent.
+Communications made through email or WaniKani Support's messaging system will not constitute legal notice to Tofugu or any of its officers, employees, agents or representatives in any situation where notice to Tofugu is required by contract or any law or regulation. Legal notice to Tofugu must be in writing and [served on Tofugu's legal agent](#).
 
 #### 3. No Phone Support
 
@@ -322,7 +322,7 @@ Except to the extent applicable law provides otherwise, this Agreement between y
 
 #### 2. Non-Assignability
 
-Tofugu may assign or delegate these Terms of Service and/or the WaniKani Privacy Policy, in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
+Tofugu may assign or delegate these Terms of Service and/or the [WaniKani Privacy Policy](#), in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
 
 #### 3. Section Headings and Summaries
 
