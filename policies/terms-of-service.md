@@ -218,7 +218,7 @@ Our pricing and payment terms are available at [wanikani.com/account/subscriptio
 - If you change your level of service, we will prorate the cost difference and apply any charges or discounts immediately.
 - You may change your level of service at any time by choosing a plan option or going into your [subscription settings](https://www.wanikani.com/account/subscription). If you choose to downgrade your account, you may lose access to Content, features, or capacity of your account.
 
-#### 3. Billing Schedule; No Refunds
+#### 3. Billing Schedule; Refunds
 
 - For monthly or yearly payment plans, the Service is billed in advance on a monthly or yearly basis respectively. For lifetime plans, the Service is billed once at time of purchase.
 - Refunds may be requested within 60 days of payment for any level of service, for any reason.
