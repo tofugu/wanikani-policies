@@ -215,7 +215,7 @@ Our pricing and payment terms are available at [wanikani.com/account/subscriptio
 #### 2. Upgrades, Downgrades, and Changes
 
 - We will immediately bill you when you upgrade from the free plan to any paying plan.
-- If you change your level of service, we will prorate the cost difference and apply any charges or discounts immediately.
+- If you change your level of service, we will prorate the cost difference and apply any charges or credits immediately. If the credit is larger than the amount due, we will apply that credit to future charges.
 - You may change your level of service at any time by choosing a plan option or going into your [subscription settings](https://www.wanikani.com/account/subscription). If you choose to downgrade your account, you may lose access to Content, features, or capacity of your account.
 
 #### 3. Billing Schedule; Refunds
