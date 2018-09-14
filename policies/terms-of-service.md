@@ -287,6 +287,7 @@ You understand and agree that we will not be liable to you or any third party fo
 - the Service generally or the software or systems that make the Service available;
 - unauthorized access to or alterations of your transmissions or data;
 - statements or conduct of any third party on the Service;
+- any third party links to websites or services, as well as the content, goods, and services on those websites and services, that are not owned or controlled by Tofugu;
 - any other user interactions that you input or receive through your use of the Service; or
 - any other matter relating to the Service.
 
@@ -314,23 +315,27 @@ We reserve the right at any time and from time to time to modify or discontinue,
 
 Except to the extent applicable law provides otherwise, this Agreement between you and Tofugu and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of Oregon, without regard to conflict of law provisions. You and Tofugu agree to submit to the exclusive jurisdiction and venue of the courts located in Portland, Oregon.
 
-#### 2. Non-Assignability
+#### 2. Contests, Sweepstakes and Promotions
+
+Any contests, sweepstakes or other promotions (collectively, "Promotions") made available through the Service may be governed by rules that are separate from these Terms. If you participate in any Promotions, please review the applicable rules as well as our Privacy Policy. If the rules for a Promotion conflict with these Terms, the Promotion rules will apply.
+
+#### 3. Non-Assignability
 
 Tofugu may assign or delegate these Terms of Service and/or the [WaniKani Privacy Policy](https://www.wanikani.com/privacy), in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
 
-#### 3. Section Headings and Summaries
+#### 4. Section Headings and Summaries
 
 Throughout this Agreement, each section includes titles and brief summaries of the following terms and conditions. These section titles and brief summaries are not legally binding.
 
-#### 4. Severability, No Waiver, and Survival
+#### 5. Severability, No Waiver, and Survival
 
 If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties’ original intent. The remaining portions will remain in full force and effect. Any failure on the part of Tofugu to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision. Our rights under this Agreement will survive any termination of this Agreement.
 
-#### 5. Amendments; Complete Agreement
+#### 6. Amendments; Complete Agreement
 
 This Agreement may only be modified by a written amendment signed by an authorized representative of Tofugu, or by the posting by Tofugu of a revised version in accordance with [Section O. Changes to These Terms](#o-changes-to-these-terms-of-service). These Terms of Service, together with the WaniKani Privacy Statement, represent the complete and exclusive statement of the Agreement between you and us. This Agreement supersedes any proposal or prior Agreement oral or written, and any other communications between you and Tofugu relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
 
-#### 6. Questions
+#### 7. Questions
 
 Questions about the Terms of Service? [Contact us](mailto:hello@wanikani.com).
 
