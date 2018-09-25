@@ -261,7 +261,7 @@ For contractual purposes, you (1) consent to receive communications from us in a
 
 #### 2. Legal Notice to Tofugu Must Be in Writing
 
-Communications made through email or WaniKani Support's messaging system will not constitute legal notice to Tofugu or any of its officers, employees, agents or representatives in any situation where notice to Tofugu is required by contract or any law or regulation. Legal notice to Tofugu must be in writing and [served on Tofugu's legal agent](#).
+Communications made through email or WaniKani Support's messaging system will not constitute legal notice to Tofugu or any of its officers, employees, agents or representatives in any situation where notice to Tofugu is required by contract or any law or regulation. Legal notice to Tofugu must be in writing and [served on Tofugu's legal agent](mailto:legal@tofugu.com).
 
 #### 3. No Phone Support
 
