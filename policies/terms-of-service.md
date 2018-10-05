@@ -287,7 +287,7 @@ You understand and agree that we will not be liable to you or any third party fo
 - the Service generally or the software or systems that make the Service available;
 - unauthorized access to or alterations of your transmissions or data;
 - statements or conduct of any third party on the Service;
-- any third party links to websites or services, as well as the content, goods, and services on those websites and services, that are not owned or controlled by Tofugu;
+- the use of websites or services, as well as the content, goods, and services on those websites and services, mentioned by the Service or linked from the Website;
 - any other user interactions that you input or receive through your use of the Service; or
 - any other matter relating to the Service.
 
