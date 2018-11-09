@@ -24,7 +24,7 @@ Thank you for using WaniKani! We're happy you're here. Please read this Terms of
 
 ## The WaniKani Terms of Service
 
-Effective date: May 15, 2018
+Effective date: December 12, 2018
 
 ### A. Definitions
 
