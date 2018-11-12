@@ -269,7 +269,7 @@ WaniKani only offers support via email, in-Service communications, and electroni
 
 ### L. Disclaimer of Warranties
 
-**Short version:** *We provide our Service as is, and we make no promises or guarantees about this* Service. Please read this section carefully; you should understand what to expect.*
+**Short version:** *We provide our Service as is, and we make no promises or guarantees about this Service. Please read this section carefully; you should understand what to expect.*
 
 Tofugu provides the Website and the Service “as is” and “as available,” without warranty of any kind. Without limiting this, we expressly disclaim all warranties, whether express, implied or statutory, regarding the Website and the Service including without limitation any warranty of merchantability, fitness for a particular purpose, title, security, accuracy and non-infringement.
 
