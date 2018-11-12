@@ -1,6 +1,6 @@
 # Terms of Service
 
-Thank you for using WaniKani! We're happy you're here. Please read this Terms of Service Agreement carefully before accessing or using WaniKani. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.
+Thank you for using WaniKani! We’re happy you’re here. Please read this Terms of Service Agreement carefully before accessing or using WaniKani. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.
 
 ## Summary
 | Section | What can you find there? |
@@ -11,7 +11,7 @@ Thank you for using WaniKani! We're happy you're here. Please read this Terms of
 | [D. User-Generated Content](#d-user-generated-content) | You own the content you post on WaniKani. However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide Services to you. |
 | [E. Copyright & DMCA Policy](#e-copyright-infringement-and-dmca-policy) | This section talks about how WaniKani will respond if you believe someone is infringing your copyrights on WaniKani. |
 | [F. Intellectual Property Notice](#f-intellectual-property-notice) | This describes WaniKani’s rights in the Website and Service. |
-| [G. API Terms](#g-api-terms) | These are the rules for using WaniKani's APIs, whether you are using the API for development or data collection. |
+| [G. API Terms](#g-api-terms) | These are the rules for using WaniKani’s APIs, whether you are using the API for development or data collection. |
 | [H. Advertising on WaniKani](#h-advertising-on-wanikani) | If you want to promote your content on WaniKani, this section lays out some rules you must follow. |
 | [I. Payment](#i-payment) | You are responsible for payment. We are responsible for billing you accurately. |
 | [J. Cancellation and Termination](#j-cancellation-and-termination) | You may cancel this Agreement and close your account at any time. |
@@ -19,7 +19,7 @@ Thank you for using WaniKani! We're happy you're here. Please read this Terms of
 | [L. Disclaimer of Warranties](#l-disclaimer-of-warranties) | We provide our Service as is, and we make no promises or guarantees about this Service. **Please read this section carefully; you should understand what to expect.** |
 | [M. Limitation of Liability](#m-limitation-of-liability) | We will not be liable for damages or losses arising from your use or inability to use the Service or otherwise arising under this Agreement. **Please read this section carefully; it limits our obligations to you.** |
 | [N. Release and Indemnification](#n-release-and-indemnification) | You are fully responsible for your use of the Service. |
-| [O. Changes to these Terms of Service](#o-changes-to-these-terms-of-service) | We may modify this Agreement, but we will give you 30 days' notice of changes that affect your rights. |
+| [O. Changes to These Terms](#o-changes-to-these-terms) | We may modify this Agreement, but we will give you 30 days notice of changes that affect your rights. |
 | [P. Miscellaneous](#p-miscellaneous) | Please see this section for legal details including our choice of law. |
 
 ## The WaniKani Terms of Service
@@ -28,10 +28,10 @@ Effective date: December 12, 2018
 
 ### A. Definitions
 
-**Short version:** *We use these basic terms throughout the Agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.*
+**Short version:** *We use these basic terms throughout the Agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There’s not going to be a test on it, but it’s still useful information.*
 
-1. “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the WaniKani Privacy Policy, available at [wanikani.com/privacy](https://www.wanikani.com/privacy)) and procedures that we may publish from time to time on the Website.
-2. “Content” refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users. "Your Content" is Content that you create or own.
+1. “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the “Terms”) and all other operating rules, policies (including the WaniKani Privacy Policy, available at [wanikani.com/privacy](https://www.wanikani.com/privacy)) and procedures that we may publish from time to time on the Website.
+2. “Content” refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. “Content” also includes Services. “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users. “Your Content” is Content that you create or own.
 3. “Service” refers to the applications, software, products, and services provided by Tofugu.
 4. “Tofugu,” “We,” and “Us” refer to Tofugu, LLC., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
 5. “User,” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using the Website or Service; that accesses or uses any part of the account; or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for business or government accounts (See [Section B.4): Additional Terms](#b-account-terms)).
@@ -47,9 +47,9 @@ You must provide a valid email address in order to complete the signup process. 
 
 #### 2. Account Requirements
 
-We have a few simple rules for accounts on WaniKani's Service.
+We have a few simple rules for accounts on WaniKani’s Service.
 
-- You must be a human to create an account. Accounts registered by "bots" or other automated methods are not permitted.
+- You must be a human to create an account. Accounts registered by “bots” or other automated methods are not permitted.
 - You must be age 13 or older. While we are thrilled to see brilliant young people excited to learn Japanese, we must comply with United States law. WaniKani does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, we will [terminate that User’s account immediately](#j-cancellation-and-termination). If you are a resident of a country outside the United States, your country’s minimum age may be older; in such a case, you are responsible for complying with your country’s laws.
 - You may not use as a username that is a name or trademark that is subject to any rights of another person or entity without appropriate authorization. You may not use a name that is otherwise offensive, vulgar, or obscene.
 - Your login may only be used by one person — i.e., a single login may not be shared by multiple people.
@@ -64,7 +64,7 @@ You are responsible for keeping your account secure while you use our Service.
 
 #### 4. Additional Terms
 
-In some situations, third parties' terms may apply to your use of WaniKani. For example, you may download an application that integrates with WaniKani. Please be aware that while these Terms are our full agreement with you, other parties' terms govern their relationships with you.
+In some situations, third parties’ terms may apply to your use of WaniKani. For example, you may download an application that integrates with WaniKani. Please be aware that while these Terms are our full agreement with you, other parties’ terms govern their relationships with you.
 
 ### C. Acceptable Use
 
@@ -91,30 +91,30 @@ While using WaniKani, you agree that you will not under any circumstances:
 
 - harass, abuse, threaten, or incite violence towards any individual or group, including Tofugu employees, officers, and agents, or other WaniKani Users;
 - use our servers for any form of excessive automated bulk activity (for example, spamming), or relay any other form of unsolicited advertising or solicitation through our servers, such as get-rich-quick schemes;
-- attempt to disrupt or tamper with Tofugu's servers in ways that could harm our Website or Service, to place undue burden on Tofugu's servers through automated means, or to access Tofugu's Service in ways that exceed your authorization;
-- impersonate any person or entity, including any of our employees or representatives, including through false association with Tofugu, or by fraudulently misrepresenting your identity or site's purpose; or
-- violate the privacy of any third party, such as by posting another person's personal information without consent.
+- attempt to disrupt or tamper with Tofugu’s servers in ways that could harm our Website or Service, to place undue burden on Tofugu’s servers through automated means, or to access Tofugu’s Service in ways that exceed your authorization;
+- impersonate any person or entity, including any of our employees or representatives, including through false association with Tofugu, or by fraudulently misrepresenting your identity or site’s purpose; or
+- violate the privacy of any third party, such as by posting another person’s personal information without consent.
 
 #### 4. Services Usage Limits
 
-You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without Tofugu's express written permission.
+You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without Tofugu’s express written permission.
 
 #### 5. Scraping
 
-Scraping refers to extracting data from our Website via an automated process, such as a bot or webcrawler. It does not refer to the collection of information through WaniKani's API. Please see [Section G](#g-api-terms) for our API Terms. You may scrape the Website for the following reasons:
+Scraping refers to extracting data from our Website via an automated process, such as a bot or webcrawler. It does not refer to the collection of information through WaniKani’s API. Please see [Section G](#g-api-terms) for our API Terms. You may scrape the Website for the following reasons:
 
 - Researchers may scrape public, non-personal information from WaniKani for research purposes, only if any publications resulting from that research are open access.
 - Archivists may scrape WaniKani for public data for archival purposes.
 
-You may not scrape WaniKani for spamming purposes, including for the purposes of selling WaniKani users' personal information, such as to advertisers, recruiters, or job boards.
+You may not scrape WaniKani for spamming purposes, including for the purposes of selling WaniKani users’ personal information, such as to advertisers, recruiters, or job boards.
 
 All use of WaniKani data gathered through scraping must comply with the [WaniKani Privacy Policy](https://www.wanikani.com/privacy).
 
 #### 6. Privacy
 
-Misuse of WaniKani Users' Personal Information is prohibited.
+Misuse of WaniKani Users’ Personal Information is prohibited.
 
-Any person, entity, or service collecting data from WaniKani must comply with the [WaniKani Privacy Policy](https://www.wanikani.com/privacy), particularly in regards to the collection of our Users' Personal Information (as defined in the [WaniKani Privacy Policy](https://www.wanikani.com/privacy)). If you collect any WaniKani User's Personal Information from WaniKani, you agree that you will only use the Personal Information you gather for the purpose for which our User has authorized it. You agree that you will reasonably secure any Personal Information you have gathered from WaniKani, and you will respond promptly to complaints, removal requests, and "do not contact" requests from Tofugu or WaniKani Users.
+Any person, entity, or service collecting data from WaniKani must comply with the [WaniKani Privacy Policy](https://www.wanikani.com/privacy), particularly in regards to the collection of our Users’ Personal Information (as defined in the [WaniKani Privacy Policy](https://www.wanikani.com/privacy)). If you collect any WaniKani User’s Personal Information from WaniKani, you agree that you will only use the Personal Information you gather for the purpose for which our User has authorized it. You agree that you will reasonably secure any Personal Information you have gathered from WaniKani, and you will respond promptly to complaints, removal requests, and “do not contact” requests from Tofugu or WaniKani Users.
 
 #### 7. Excessive Bandwidth Use
 
@@ -138,7 +138,7 @@ We do not pre-screen User-Generated Content, but we have the right (though not t
 
 #### 3. Ownership of Content, Right to Post, and License Grants
 
-You retain ownership of and responsibility for Content you create or own ("Your Content"). If you're posting anything you did not create yourself or do not own the rights to, you agree that you are responsible for any Content you post; that you will only submit Content that you have the right to post; and that you will fully comply with any third party licenses relating to Content you post.
+You retain ownership of and responsibility for Content you create or own (“Your Content”). If you’re posting anything you did not create yourself or do not own the rights to, you agree that you are responsible for any Content you post; that you will only submit Content that you have the right to post; and that you will fully comply with any third party licenses relating to Content you post.
 
 Because you retain ownership of and responsibility for Your Content, we need you to grant us — and other WaniKani Users — certain legal permissions, listed in Sections D.4–D.5. These license grants apply to Your Content. If you upload Content that already comes with a license granting Tofugu the permissions we need to run our Service, no additional license is required. You understand that you will not receive any payment for any of the rights granted in Sections D.4–D.5. The licenses you grant to us will end when you remove Your Content from our servers.
 
@@ -164,7 +164,7 @@ We disable and terminate the accounts of users who may infringe upon the copyrig
 
 **Short version:** *We own the Service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.*
 
-#### 1. Tofugu's Rights to Content
+#### 1. Tofugu’s Rights to Content
 
 Tofugu and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service. We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright © Tofugu, LLC. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from Tofugu.
 
@@ -174,19 +174,19 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
 
 ### G. API Terms
 
-**Short version:** *You agree to these Terms of Service, plus this Section G, when using any of WaniKani's APIs (Application Provider Interface), including use of the API through a third party product that accesses WaniKani.*
+**Short version:** *You agree to these Terms of Service, plus this Section G, when using any of WaniKani’s APIs (Application Provider Interface), including use of the API through a third party product that accesses WaniKani.*
 
 No Abuse or Overuse of the API
 
-Abuse or excessively frequent requests to WaniKani via the API may result in the temporary or permanent suspension of your account's access to the API. Tofugu, in our sole discretion, will determine abuse or excessive usage of the API. We will make a reasonable attempt to warn you via email prior to suspension.
+Abuse or excessively frequent requests to WaniKani via the API may result in the temporary or permanent suspension of your account’s access to the API. Tofugu, in our sole discretion, will determine abuse or excessive usage of the API. We will make a reasonable attempt to warn you via email prior to suspension.
 
-You may not share API tokens to exceed WaniKani's rate limitations.
+You may not share API tokens to exceed WaniKani’s rate limitations.
 
-You may not use the API to download data or Content from WaniKani for spamming purposes, including for the purposes of selling WaniKani users' personal information, such as to recruiters, headhunters, and job boards.
+You may not use the API to download data or Content from WaniKani for spamming purposes, including for the purposes of selling WaniKani users’ personal information, such as to recruiters, headhunters, and job boards.
 
 All use of the WaniKani API is subject to these Terms of Service and the [WaniKani Privacy Policy](https://www.wanikani.com/privacy).
 
-Tofugu may offer subscription-based access to our API for those Users who require high-throughput access or access that would result in resale of Tofugu's Service.
+Tofugu may offer subscription-based access to our API for those Users who require high-throughput access or access that would result in resale of Tofugu’s Service.
 
 ### H. Advertising on WaniKani
 
@@ -225,7 +225,7 @@ You are responsible for all fees, including taxes, associated with your use of t
 
 ### J. Cancellation and Termination
 
-**Short version:** *You may close your account at any time. If you do, we'll treat your information responsibly.*
+**Short version:** *You may close your account at any time. If you do, we’ll treat your information responsibly.*
 
 #### 1. Account Cancellation
 
@@ -261,7 +261,7 @@ For contractual purposes, you (1) consent to receive communications from us in a
 
 #### 2. Legal Notice to Tofugu Must Be in Writing
 
-Communications made through email or WaniKani Support's messaging system will not constitute legal notice to Tofugu or any of its officers, employees, agents or representatives in any situation where notice to Tofugu is required by contract or any law or regulation. Legal notice to Tofugu must be in writing and [served on Tofugu's legal agent](mailto:legal@tofugu.com).
+Communications made through email or WaniKani Support’s messaging system will not constitute legal notice to Tofugu or any of its officers, employees, agents or representatives in any situation where notice to Tofugu is required by contract or any law or regulation. Legal notice to Tofugu must be in writing and [served on Tofugu’s legal agent](mailto:legal@tofugu.com).
 
 #### 3. No Phone Support
 
@@ -303,7 +303,7 @@ You agree to indemnify us, defend us, and hold us harmless from and against any 
 
 ### O. Changes to These Terms
 
-**Short version:** *We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this Agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them.*
+**Short version:** *We want our users to be informed of important changes to our terms, but some changes aren’t that important — we don’t want to bother you every time we fix a typo. So while we may modify this Agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them.*
 
 We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. We will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. For non-material modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service.
 
@@ -317,7 +317,7 @@ Except to the extent applicable law provides otherwise, this Agreement between y
 
 #### 2. Contests, Sweepstakes and Promotions
 
-Any contests, sweepstakes or other promotions (collectively, "Promotions") made available through the Service may be governed by rules that are separate from these Terms. If you participate in any Promotions, please review the applicable rules as well as our Privacy Policy. If the rules for a Promotion conflict with these Terms, the Promotion rules will apply.
+Any contests, sweepstakes or other promotions (collectively, “Promotions”) made available through the Service may be governed by rules that are separate from these Terms. If you participate in any Promotions, please review the applicable rules as well as our Privacy Policy. If the rules for a Promotion conflict with these Terms, the Promotion rules will apply.
 
 #### 3. Non-Assignability
 
@@ -333,7 +333,7 @@ If any part of this Agreement is held invalid or unenforceable, that portion of 
 
 #### 6. Amendments; Complete Agreement
 
-This Agreement may only be modified by a written amendment signed by an authorized representative of Tofugu, or by the posting by Tofugu of a revised version in accordance with [Section O. Changes to These Terms](#o-changes-to-these-terms-of-service). These Terms of Service, together with the WaniKani Privacy Statement, represent the complete and exclusive statement of the Agreement between you and us. This Agreement supersedes any proposal or prior Agreement oral or written, and any other communications between you and Tofugu relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
+This Agreement may only be modified by a written amendment signed by an authorized representative of Tofugu, or by the posting by Tofugu of a revised version in accordance with [Section O. Changes to These Terms](#o-changes-to-these-terms). These Terms of Service, together with the WaniKani Privacy Statement, represent the complete and exclusive statement of the Agreement between you and us. This Agreement supersedes any proposal or prior Agreement oral or written, and any other communications between you and Tofugu relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
 
 #### 7. Questions
 
