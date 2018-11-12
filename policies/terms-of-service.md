@@ -176,7 +176,7 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
 
 **Short version:** *You agree to these Terms of Service, plus this Section G, when using any of WaniKani’s APIs (Application Provider Interface), including use of the API through a third party product that accesses WaniKani.*
 
-No Abuse or Overuse of the API
+#### No Abuse or Overuse of the API
 
 Abuse or excessively frequent requests to WaniKani via the API may result in the temporary or permanent suspension of your account’s access to the API. Tofugu, in our sole discretion, will determine abuse or excessive usage of the API. We will make a reasonable attempt to warn you via email prior to suspension.
 
