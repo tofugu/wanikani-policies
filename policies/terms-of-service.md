@@ -15,7 +15,7 @@ Thank you for using WaniKani! We’re happy you’re here. Please read this Term
 | [H. Advertising on WaniKani](#h-advertising-on-wanikani) | If you want to promote your content on WaniKani, this section lays out some rules you must follow. |
 | [I. Payment](#i-payment) | You are responsible for payment. We are responsible for billing you accurately. |
 | [J. Cancellation and Termination](#j-cancellation-and-termination) | You may cancel this Agreement and close your account at any time. |
-| [K. Communications with WaniKani](#k-communications-with-wanikani) | We only use email and other electronic means to stay in touch with our users. We do not provide phone support. |
+| [K. Communications with Tofugu](#k-communications-with-tofugu) | We only use email and other electronic means to stay in touch with our users. We do not provide phone support. |
 | [L. Disclaimer of Warranties](#l-disclaimer-of-warranties) | We provide our Service as is, and we make no promises or guarantees about this Service. **Please read this section carefully; you should understand what to expect.** |
 | [M. Limitation of Liability](#m-limitation-of-liability) | We will not be liable for damages or losses arising from your use or inability to use the Service or otherwise arising under this Agreement. **Please read this section carefully; it limits our obligations to you.** |
 | [N. Release and Indemnification](#n-release-and-indemnification) | You are fully responsible for your use of the Service. |
