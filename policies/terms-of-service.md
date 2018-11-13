@@ -174,7 +174,7 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
 
 ### G. API Terms
 
-**Short version:** *You agree to these Terms of Service, plus this Section G, when using any of WaniKani’s APIs (Application Provider Interface), including use of the API through a third party product that accesses WaniKani.*
+**Short version:** *You agree to these Terms of Service, plus this Section G, when using any of WaniKani’s APIs (Application Program Interface), including use of the API through a third party product that accesses WaniKani.*
 
 #### No Abuse or Overuse of the API
 
